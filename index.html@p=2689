@@ -33,14 +33,14 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='contact-form-7-css'  href='wp-content/plugins/contact-form-7/includes/css/styles.css@ver=4.7' type='text/css' media='all' />
-<link rel='stylesheet' id='rs-plugin-settings-css'  href='wp-content/plugins/revslider/public/assets/css/settings.css@ver=5.2.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='wp-content/plugins/revslider/public/assets/css/settings.css' type='text/css' media='all' />
 <style id='rs-plugin-settings-inline-css' type='text/css'>
 #rs-demo-id {}
 </style>
-<link rel='stylesheet' id='suprema_qodef_default_style-css'  href='wp-content/themes/suprema/style.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='suprema_qodef_modules_plugins-css'  href='wp-content/themes/suprema/assets/css/plugins.min.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='suprema_qodef_modules-css'  href='wp-content/themes/suprema/assets/css/modules.min.css@ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='suprema_qodef_default_style-css'  href='wp-content/themes/suprema/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='suprema_qodef_modules_plugins-css'  href='wp-content/themes/suprema/assets/css/plugins.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='suprema_qodef_modules-css'  href='wp-content/themes/suprema/assets/css/modules.min.css' type='text/css' media='all' />
 <style id='suprema_qodef_modules-inline-css' type='text/css'>
 /*.qodef-position-right-inner { display: none !important; }*/
 
@@ -150,29 +150,29 @@ footer .qodef-footer-bottom-holder .qodef-two-columns-50-50 .qodef-column:last-c
 }
 
 </style>
-<link rel='stylesheet' id='qodef_font_awesome-css'  href='wp-content/themes/suprema/assets/css/font-awesome/css/font-awesome.min.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='qodef_font_elegant-css'  href='wp-content/themes/suprema/assets/css/elegant-icons/style.min.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='qodef_ion_icons-css'  href='wp-content/themes/suprema/assets/css/ion-icons/css/ionicons.min.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='qodef_linea_icons-css'  href='wp-content/themes/suprema/assets/css/linea-icons/style.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='qodef_linear_icons-css'  href='wp-content/themes/suprema/assets/css/linear-icons/style.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='qodef_simple_line_icons-css'  href='wp-content/themes/suprema/assets/css/simple-line-icons/simple-line-icons.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='qodef_dripicons-css'  href='wp-content/themes/suprema/assets/css/dripicons/dripicons.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='suprema_qodef_blog-css'  href='wp-content/themes/suprema/assets/css/blog.min.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='mediaelement-css'  href='wp-includes/js/mediaelement/mediaelementplayer.min.css@ver=2.22.0' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-mediaelement-css'  href='wp-includes/js/mediaelement/wp-mediaelement.min.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='qode_woocommerce-css'  href='wp-content/themes/suprema/assets/css/woocommerce.min.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='qode_woocommerce_responsive-css'  href='wp-content/themes/suprema/assets/css/woocommerce-responsive.min.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='suprema_qodef_style_dynamic-css'  href='wp-content/themes/suprema/assets/css/style_dynamic.css@ver=1489165942' type='text/css' media='all' />
-<link rel='stylesheet' id='suprema_qodef_modules_responsive-css'  href='wp-content/themes/suprema/assets/css/modules-responsive.min.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='suprema_qodef_blog_responsive-css'  href='wp-content/themes/suprema/assets/css/blog-responsive.min.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='suprema_qodef_style_dynamic_responsive-css'  href='wp-content/themes/suprema/assets/css/style_dynamic_responsive.css@ver=1489165942' type='text/css' media='all' />
-<link rel='stylesheet' id='js_composer_front-css'  href='wp-content/plugins/js_composer/assets/css/js_composer.min.css@ver=4.12' type='text/css' media='all' />
+<link rel='stylesheet' id='qodef_font_awesome-css'  href='wp-content/themes/suprema/assets/css/font-awesome/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='qodef_font_elegant-css'  href='wp-content/themes/suprema/assets/css/elegant-icons/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='qodef_ion_icons-css'  href='wp-content/themes/suprema/assets/css/ion-icons/css/ionicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='qodef_linea_icons-css'  href='wp-content/themes/suprema/assets/css/linea-icons/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='qodef_linear_icons-css'  href='wp-content/themes/suprema/assets/css/linear-icons/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='qodef_simple_line_icons-css'  href='wp-content/themes/suprema/assets/css/simple-line-icons/simple-line-icons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='qodef_dripicons-css'  href='wp-content/themes/suprema/assets/css/dripicons/dripicons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='suprema_qodef_blog-css'  href='wp-content/themes/suprema/assets/css/blog.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='wp-includes/js/mediaelement/mediaelementplayer.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='qode_woocommerce-css'  href='wp-content/themes/suprema/assets/css/woocommerce.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='qode_woocommerce_responsive-css'  href='wp-content/themes/suprema/assets/css/woocommerce-responsive.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='suprema_qodef_style_dynamic-css'  href='wp-content/themes/suprema/assets/css/style_dynamic.css' type='text/css' media='all' />
+<link rel='stylesheet' id='suprema_qodef_modules_responsive-css'  href='wp-content/themes/suprema/assets/css/modules-responsive.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='suprema_qodef_blog_responsive-css'  href='wp-content/themes/suprema/assets/css/blog-responsive.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='suprema_qodef_style_dynamic_responsive-css'  href='wp-content/themes/suprema/assets/css/style_dynamic_responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='wp-content/plugins/js_composer/assets/css/js_composer.min.css' type='text/css' media='all' />
 <link rel='stylesheet' id='suprema_qodef_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CUbuntu%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COpen+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COpen+Sans+Condensed%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;subset=latin%2Clatin-ext&#038;ver=1.0.0' type='text/css' media='all' />
-<link rel='stylesheet' id='dhvc-woocommerce-page-awesome-css'  href='wp-content/plugins/dhvc-woocommerce-page/assets/fonts/awesome/css/font-awesome.min.css@ver=4.0.3' type='text/css' media='all' />
-<link rel='stylesheet' id='dhvc-woocommerce-page-css'  href='wp-content/plugins/dhvc-woocommerce-page/assets/css/style.css@ver=3.0.2' type='text/css' media='all' />
-<link rel='stylesheet' id='dtwpb-css'  href='wp-content/plugins/dt_woocommerce_page_builder/assets/css/style.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='mc4wp-form-themes-css'  href='wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css@ver=4.1.1' type='text/css' media='all' />
-<link rel='stylesheet' id='bsf-Defaults-css'  href='wp-content/uploads/smile_fonts/Defaults/Defaults.css@ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='dhvc-woocommerce-page-awesome-css'  href='wp-content/plugins/dhvc-woocommerce-page/assets/fonts/awesome/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dhvc-woocommerce-page-css'  href='wp-content/plugins/dhvc-woocommerce-page/assets/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dtwpb-css'  href='wp-content/plugins/dt_woocommerce_page_builder/assets/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-themes-css'  href='wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bsf-Defaults-css'  href='wp-content/uploads/smile_fonts/Defaults/Defaults.css' type='text/css' media='all' />
 <!-- This site uses the Google Analytics by MonsterInsights plugin v6.1.7 - Using Analytics tracking - https://www.monsterinsights.com/ -->
 <script type="text/javascript" data-cfasync="false">
 	/* Function to detect opted out users */

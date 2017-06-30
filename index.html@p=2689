@@ -33,14 +33,14 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='contact-form-7-css'  href='wp-content/plugins/contact-form-7/includes/css/styles.css@ver=4.7' type='text/css' media='all' />
-<link rel='stylesheet' id='rs-plugin-settings-css'  href='wp-content/plugins/revslider/public/assets/css/settings.css@ver=5.2.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='wp-content/plugins/revslider/public/assets/css/settings.css' type='text/css' media='all' />
 <style id='rs-plugin-settings-inline-css' type='text/css'>
 #rs-demo-id {}
 </style>
-<link rel='stylesheet' id='suprema_qodef_default_style-css'  href='wp-content/themes/suprema/style.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='suprema_qodef_modules_plugins-css'  href='wp-content/themes/suprema/assets/css/plugins.min.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='suprema_qodef_modules-css'  href='wp-content/themes/suprema/assets/css/modules.min.css@ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='suprema_qodef_default_style-css'  href='wp-content/themes/suprema/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='suprema_qodef_modules_plugins-css'  href='wp-content/themes/suprema/assets/css/plugins.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='suprema_qodef_modules-css'  href='wp-content/themes/suprema/assets/css/modules.min.css' type='text/css' media='all' />
 <style id='suprema_qodef_modules-inline-css' type='text/css'>
 /*.qodef-position-right-inner { display: none !important; }*/
 
@@ -150,29 +150,29 @@ footer .qodef-footer-bottom-holder .qodef-two-columns-50-50 .qodef-column:last-c
 }
 
 </style>
-<link rel='stylesheet' id='qodef_font_awesome-css'  href='wp-content/themes/suprema/assets/css/font-awesome/css/font-awesome.min.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='qodef_font_elegant-css'  href='wp-content/themes/suprema/assets/css/elegant-icons/style.min.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='qodef_ion_icons-css'  href='wp-content/themes/suprema/assets/css/ion-icons/css/ionicons.min.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='qodef_linea_icons-css'  href='wp-content/themes/suprema/assets/css/linea-icons/style.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='qodef_linear_icons-css'  href='wp-content/themes/suprema/assets/css/linear-icons/style.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='qodef_simple_line_icons-css'  href='wp-content/themes/suprema/assets/css/simple-line-icons/simple-line-icons.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='qodef_dripicons-css'  href='wp-content/themes/suprema/assets/css/dripicons/dripicons.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='suprema_qodef_blog-css'  href='wp-content/themes/suprema/assets/css/blog.min.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='mediaelement-css'  href='wp-includes/js/mediaelement/mediaelementplayer.min.css@ver=2.22.0' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-mediaelement-css'  href='wp-includes/js/mediaelement/wp-mediaelement.min.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='qode_woocommerce-css'  href='wp-content/themes/suprema/assets/css/woocommerce.min.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='qode_woocommerce_responsive-css'  href='wp-content/themes/suprema/assets/css/woocommerce-responsive.min.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='suprema_qodef_style_dynamic-css'  href='wp-content/themes/suprema/assets/css/style_dynamic.css@ver=1489165942' type='text/css' media='all' />
-<link rel='stylesheet' id='suprema_qodef_modules_responsive-css'  href='wp-content/themes/suprema/assets/css/modules-responsive.min.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='suprema_qodef_blog_responsive-css'  href='wp-content/themes/suprema/assets/css/blog-responsive.min.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='suprema_qodef_style_dynamic_responsive-css'  href='wp-content/themes/suprema/assets/css/style_dynamic_responsive.css@ver=1489165942' type='text/css' media='all' />
-<link rel='stylesheet' id='js_composer_front-css'  href='wp-content/plugins/js_composer/assets/css/js_composer.min.css@ver=4.12' type='text/css' media='all' />
+<link rel='stylesheet' id='qodef_font_awesome-css'  href='wp-content/themes/suprema/assets/css/font-awesome/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='qodef_font_elegant-css'  href='wp-content/themes/suprema/assets/css/elegant-icons/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='qodef_ion_icons-css'  href='wp-content/themes/suprema/assets/css/ion-icons/css/ionicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='qodef_linea_icons-css'  href='wp-content/themes/suprema/assets/css/linea-icons/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='qodef_linear_icons-css'  href='wp-content/themes/suprema/assets/css/linear-icons/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='qodef_simple_line_icons-css'  href='wp-content/themes/suprema/assets/css/simple-line-icons/simple-line-icons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='qodef_dripicons-css'  href='wp-content/themes/suprema/assets/css/dripicons/dripicons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='suprema_qodef_blog-css'  href='wp-content/themes/suprema/assets/css/blog.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='wp-includes/js/mediaelement/mediaelementplayer.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='qode_woocommerce-css'  href='wp-content/themes/suprema/assets/css/woocommerce.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='qode_woocommerce_responsive-css'  href='wp-content/themes/suprema/assets/css/woocommerce-responsive.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='suprema_qodef_style_dynamic-css'  href='wp-content/themes/suprema/assets/css/style_dynamic.css' type='text/css' media='all' />
+<link rel='stylesheet' id='suprema_qodef_modules_responsive-css'  href='wp-content/themes/suprema/assets/css/modules-responsive.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='suprema_qodef_blog_responsive-css'  href='wp-content/themes/suprema/assets/css/blog-responsive.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='suprema_qodef_style_dynamic_responsive-css'  href='wp-content/themes/suprema/assets/css/style_dynamic_responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='wp-content/plugins/js_composer/assets/css/js_composer.min.css' type='text/css' media='all' />
 <link rel='stylesheet' id='suprema_qodef_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CUbuntu%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COpen+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COpen+Sans+Condensed%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;subset=latin%2Clatin-ext&#038;ver=1.0.0' type='text/css' media='all' />
-<link rel='stylesheet' id='dhvc-woocommerce-page-awesome-css'  href='wp-content/plugins/dhvc-woocommerce-page/assets/fonts/awesome/css/font-awesome.min.css@ver=4.0.3' type='text/css' media='all' />
-<link rel='stylesheet' id='dhvc-woocommerce-page-css'  href='wp-content/plugins/dhvc-woocommerce-page/assets/css/style.css@ver=3.0.2' type='text/css' media='all' />
-<link rel='stylesheet' id='dtwpb-css'  href='wp-content/plugins/dt_woocommerce_page_builder/assets/css/style.css@ver=4.7.5' type='text/css' media='all' />
-<link rel='stylesheet' id='mc4wp-form-themes-css'  href='wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css@ver=4.1.1' type='text/css' media='all' />
-<link rel='stylesheet' id='bsf-Defaults-css'  href='wp-content/uploads/smile_fonts/Defaults/Defaults.css@ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='dhvc-woocommerce-page-awesome-css'  href='wp-content/plugins/dhvc-woocommerce-page/assets/fonts/awesome/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dhvc-woocommerce-page-css'  href='wp-content/plugins/dhvc-woocommerce-page/assets/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dtwpb-css'  href='wp-content/plugins/dt_woocommerce_page_builder/assets/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-themes-css'  href='wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bsf-Defaults-css'  href='wp-content/uploads/smile_fonts/Defaults/Defaults.css' type='text/css' media='all' />
 <!-- This site uses the Google Analytics by MonsterInsights plugin v6.1.7 - Using Analytics tracking - https://www.monsterinsights.com/ -->
 <script type="text/javascript" data-cfasync="false">
 	/* Function to detect opted out users */
@@ -207,19 +207,19 @@ footer .qodef-footer-bottom-holder .qodef-two-columns-50-50 .qodef-column:last-c
 var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"https:\/\/www.beemunited.com","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js@ver=6.1.7'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/jquery.js@ver=1.12.4'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js@ver=1.4.1'></script>
-<script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js@ver=5.2.5.4'></script>
-<script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js@ver=5.2.5.4'></script>
-<script type='text/javascript' src='wp-content/plugins/smooth-mousewheel/smooth_scroll/js/min/gambit-smoothscroll-min.js@ver=3.1'></script>
+<script type='text/javascript' src='wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js'></script>
+<script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js'></script>
+<script type='text/javascript' src='wp-content/plugins/smooth-mousewheel/smooth_scroll/js/min/gambit-smoothscroll-min.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?p=2689&wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"https:\/\/www.beemunited.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js@ver=2.6.14'></script>
-<script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js@ver=4.12'></script>
+<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js'></script>
+<script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js'></script>
 <link rel='https://api.w.org/' href='wp-json/index.html' />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php@rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
@@ -1112,43 +1112,43 @@ src="https://www.facebook.com/tr?id=1427449633997041&ev=PageView
 
 </div> <!-- close div.qodef-wrapper-inner  -->
 </div> <!-- close div.qodef-wrapper -->
-<script type='text/javascript' src='wp-content/plugins/akismet/_inc/form.js@ver=3.3'></script>
-<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js@ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript' src='wp-content/plugins/akismet/_inc/form.js'></script>
+<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts.js@ver=4.7'></script>
-<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js@ver=2.70'></script>
+<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?p=2689&wc-ajax=%%endpoint%%"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js@ver=2.6.14'></script>
-<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js@ver=1.4.1'></script>
+<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js'></script>
+<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?p=2689&wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js@ver=2.6.14'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/ui/core.min.js@ver=1.11.4'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/ui/widget.min.js@ver=1.11.4'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/ui/tabs.min.js@ver=1.11.4'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/ui/accordion.min.js@ver=1.11.4'></script>
+<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/core.min.js'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/widget.min.js'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/tabs.min.js'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/ui/accordion.min.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Download File":"Download File","Download Video":"Download Video","Play":"Play","Pause":"Pause","Captions\/Subtitles":"Captions\/Subtitles","None":"None","Time Slider":"Time Slider","Skip back %1 seconds":"Skip back %1 seconds","Video Player":"Video Player","Audio Player":"Audio Player","Volume Slider":"Volume Slider","Mute Toggle":"Mute Toggle","Unmute":"Unmute","Mute":"Mute","Use Up\/Down Arrow keys to increase or decrease volume.":"Use Up\/Down Arrow keys to increase or decrease volume.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds."}};
 var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='wp-includes/js/mediaelement/mediaelement-and-player.min.js@ver=2.22.0'></script>
-<script type='text/javascript' src='wp-includes/js/mediaelement/wp-mediaelement.min.js@ver=4.7.5'></script>
-<script type='text/javascript' src='wp-content/themes/suprema/assets/js/third-party.min.js@ver=4.7.5'></script>
-<script type='text/javascript' src='wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js@ver=4.12'></script>
-<script type='text/javascript' src='wp-content/themes/suprema/assets/js/smoothPageScroll.js@ver=4.7.5'></script>
+<script type='text/javascript' src='wp-includes/js/mediaelement/mediaelement-and-player.min.js'></script>
+<script type='text/javascript' src='wp-includes/js/mediaelement/wp-mediaelement.min.js'></script>
+<script type='text/javascript' src='wp-content/themes/suprema/assets/js/third-party.min.js'></script>
+<script type='text/javascript' src='wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js'></script>
+<script type='text/javascript' src='wp-content/themes/suprema/assets/js/smoothPageScroll.js'></script>
 <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?sensor=false&amp;ver=4.7.5'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
@@ -1156,18 +1156,18 @@ var qodefGlobalVars = {"vars":{"qodefAddForAdminBar":0,"qodefElementAppearAmount
 var qodefPerPageVars = {"vars":{"qodefStickyScrollAmount":0,"qodefHeaderTransparencyHeight":0}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/themes/suprema/assets/js/modules.min.js@ver=4.7.5'></script>
-<script type='text/javascript' src='wp-content/themes/suprema/assets/js/blog.min.js@ver=4.7.5'></script>
-<script type='text/javascript' src='wp-includes/js/comment-reply.min.js@ver=4.7.5'></script>
-<script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js@ver=4.12'></script>
+<script type='text/javascript' src='wp-content/themes/suprema/assets/js/modules.min.js'></script>
+<script type='text/javascript' src='wp-content/themes/suprema/assets/js/blog.min.js'></script>
+<script type='text/javascript' src='wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var qodefLike = {"ajaxurl":"https:\/\/www.beemunited.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='wp-content/themes/suprema/assets/js/like.min.js@ver=1.0'></script>
-<script type='text/javascript' src='wp-content/plugins/dt_woocommerce_page_builder/assets/js/script.min.js@ver=1.0.3'></script>
-<script type='text/javascript' src='wp-includes/js/wp-embed.min.js@ver=4.7.5'></script>
+<script type='text/javascript' src='wp-content/themes/suprema/assets/js/like.min.js'></script>
+<script type='text/javascript' src='wp-content/plugins/dt_woocommerce_page_builder/assets/js/script.min.js'></script>
+<script type='text/javascript' src='wp-includes/js/wp-embed.min.js'></script>
 <script type="text/javascript" id="suprema_qodef-custom-js">(function($) {var defMobileHeight = qodefGlobalVars.vars.qodefMobileHeaderHeight;
 var landingSliderHeight = function(){
     if($('body').hasClass('page-id-3366')){

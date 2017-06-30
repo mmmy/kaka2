@@ -31,3 +31,10 @@ display: none !important; }
 .qodef-smooth-transition-loader.qodef-mimic-ajax {
 	display: none;
 }
+
+.qodef-shopping-cart-outer, 
+.custom.no-blink.square.ltr,
+.qodef-icon-shortcode.normal.qodef-rotate-hover,
+img.img-responsive[alt="SiteLock"] {
+	visibility: hidden;
+}

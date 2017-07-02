@@ -47,7 +47,7 @@ img.img-responsive[alt="SiteLock"] {
 }
 .qodef-column:nth-child(2) .qodef-column-inner .textwidget {
 	color: #999;
-	text-align: left;
+	/*text-align: left;*/
 }
 
 .qodef-title-subtitle-holder-inner h1 {
@@ -69,6 +69,8 @@ img.img-responsive[alt="SiteLock"] {
 	visibility: hidden;
 }
 
+iframe[name="proonto_widget"],
+.custom.no-blink.square,
 #online-welcome-drv {
 	visibility: hidden;
 }
